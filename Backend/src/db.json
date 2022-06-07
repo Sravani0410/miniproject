@@ -1,0 +1,60 @@
+
+{
+    "women":[
+        {
+            "title": "Women Regular Fit Solid Curved Collar Formal Shirt",
+            "img": "https://rukminim1.flixcart.com/image/495/594/kxhvf680/shirt/m/n/m/l-108-fs-white-yellow-pine-original-imag9x4hzxba9vbx.jpeg?q=50",
+            "price" :499,
+            "discounted_price" :1299,
+            "color" :"Yellow Pine",
+            "size":"M"        },
+        {
+            "title":"Women Regular Fit Solid Formal Shirt",
+            "img": "https://rukminim1.flixcart.com/image/495/594/kf2v3ww0/top/z/f/t/l-044-yukon01-original-imafvhkejzfhqaqz.jpeg?q=50",
+            "price" :375,
+            "discounted_price" :1999,
+            "color" :"White",
+            "size":"XL"
+        },
+        {
+            "title":"Women Kurta and Dupatta Set Crepe Georgette",
+            "img": "https://rukminim1.flixcart.com/image/495/594/ki96c280-0/kurta/t/i/p/l-fbset004f-rose-fabbucket-original-imafy39sghzxazhy.jpeg?q=50",
+            "price" :899, 
+            "discounted_price" : 1599,
+            "color" :"Pink",
+            "size":"XL"
+        },
+        {
+            "title":"Women Kurta and Dupatta Set Crepe Georgette",
+            "img": "https://rukminim1.flixcart.com/image/800/960/kv9urgw0/ethnic-set/f/q/m/l-tffset004-rust-the-fab-factory-original-imag87zuab9yudeh.jpeg?q=50",
+            "price" :699, 
+            "discounted_price" : 1299,
+            "color" :"Red",
+            "size":"XXL"
+        },
+        {
+            "title":"Women Kurta and Dupatta Set Crepe Georgette",
+            "img": "https://rukminim1.flixcart.com/image/800/960/kv9urgw0/ethnic-set/f/q/m/l-tffset004-rust-the-fab-factory-original-imag87zuab9yudeh.jpeg?q=50",
+            "price" :799, 
+            "discounted_price" : 1399,
+            "color" :"Red",
+            "size":"L"
+        },
+        {
+            "title": "Women Regular Fit Solid Curved Collar Formal Shirt",
+            "img": "https://rukminim1.flixcart.com/image/495/594/kxhvf680/shirt/m/n/m/l-108-fs-white-yellow-pine-original-imag9x4hzxba9vbx.jpeg?q=50",
+            "price" :599,
+            "discounted_price" :1399,
+            "color" :"Yellow Pine",
+            "size":"XL"        },
+        {
+            "title":"Women Regular Fit Solid Formal Shirt",
+            "img": "https://rukminim1.flixcart.com/image/495/594/kf2v3ww0/top/z/f/t/l-044-yukon01-original-imafvhkejzfhqaqz.jpeg?q=50",
+            "price" :875,
+            "discounted_price" :1799,
+            "color" :"White",
+            "size":"L"
+        }
+    
+    ]
+}
