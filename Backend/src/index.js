@@ -2,7 +2,7 @@ const express = require("express");
 const app = express();
 const cors = require("cors");
 app.use(express.json());
-
+const port=process.env.PORT || 3012
 app.use(cors());
 const ProductController = require("./controllers/productcontrollers");
 
@@ -15,4 +15,4 @@ app.get("/", (req, res) => {
 });
 app.use("/product", ProductController);
 
-module.exports = app;
+module.exports = {app,port};
